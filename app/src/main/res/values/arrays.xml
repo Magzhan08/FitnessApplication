@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item>ABS workout|45|abs.gif</item>                        <!--0-->
+        <item>Back|x15|back.gif</item>                              <!--1-->
+        <item>Back low|x15|back_tiyaga_sidiya.gif</item>            <!--2-->
+        <item>Biceps|x12|biceps.gif</item>                             <!--3-->
+        <item>leg ikra|x25|Ikra.gif</item>                          <!--4-->
+        <item>Kross|60|kross.gif</item>                             <!--5-->
+        <item>Kross with kanad|3|krossKanad.gif</item>            <!--6-->
+        <item>Push up|x35|pusups.gif</item>                         <!--7-->
+        <item>Tiyaga gontelei|x12|Tiyaga_gontelei.gif</item>        <!--8-->
+        <item>tiyaga Kanata|30|tiyagaKanata.gif</item>             <!--9-->
+        <item>Workout|x20|workout.gif</item>                        <!--10-->
+    </string-array>
+    <string-array name="day_exercises">
+        <item>7,1,3,5,10,9,2,4,8,0,6</item>   <!--Day 1-->
+        <item>7,0,3,5,10,9,8,2,4,1</item>   <!--Day 2-->
+        <item>7,3,8,4,2,9,1,5,6,10,0</item>   <!--Day 3-->
+        <item>7,4,8,5,10,9,8,2,4,1,6</item>   <!--Day 4-->
+        <item>7,5,3,4,2,9,2,4,8,0,6</item>   <!--Day 5-->
+        <item>7,6,8,5,2,9,1,5,6,10,0</item>   <!--Day 6-->
+        <item>7,9,6,4,2,9,8,2,4,1,6</item>   <!--Day 7-->
+        <item>7,8,3,10,2,9,2,4,8,0,6</item>   <!--Day 8-->
+        <item>7,10,3,5,2,9,1,5,6,10,0</item>   <!--Day 9-->
+        <item>7,1,3,4,2,9,8,2,4,1,6</item>   <!--Day 10-->
+        <item>7,0,3,10,2,9,2,4,8,0,6</item>   <!--Day 11-->
+        <item>7,10,3,10,2,9,1,5,6,10,0</item>   <!--Day 12-->
+        <item>7,1,3,5,2,9,8,2,4,1,6</item>   <!--Day 13-->
+        <item>7,4,3,10,2,9,1,5,6,10,0</item>   <!--Day 14-->
+        <item>7,9,3,10,2,9,2,4,8,0,6</item>   <!--Day 15-->
+        <item>7,5,3,4,2,9,2,4,8,0,6</item>   <!--Day 16-->
+        <item>7,6,8,5,2,9,1,5,6,10,0</item>   <!--Day 17-->
+        <item>7,9,6,4,2,9,8,2,4,1,6</item>   <!--Day 18-->
+        <item>7,8,3,10,2,9,2,4,8,0,6</item>   <!--Day 19-->
+        <item>7,10,3,5,2,9,1,5,6,10,0</item>   <!--Day 20-->
+    </string-array>
+</resources>
